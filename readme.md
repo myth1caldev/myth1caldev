@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Mythical</h1>
-<h3 align="center">A passionate Full-Stack Developer from Czechia</h3>
+<h1 align="center">👋 Hey, I'm Mythical</h1>
+<h3 align="center">Full-Stack Developer from Europe/Czech Republic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myth1caldev&label=Profile%20views&color=0e75b6&style=flat" alt="mythical" /> </p>
 
 - 🔭 I’m currently Freelancing
   
-- ⚡ Fun fact **I am lazy.**
+- ⚡ Fun fact: **I am lazy as hell.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
