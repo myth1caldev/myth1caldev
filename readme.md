@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Mythical</h1>
-<h3 align="center">Full-Stack Developer from Europe/Czech Republic</h3>
+<h2 align="center">Full-Stack Developer from Europe/Czech Republic</h2>
 
 <h3 align="center">LANGUAGES & TOOLS:</h3>
 <p align="center"> 
