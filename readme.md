@@ -2,8 +2,6 @@
 <h1 align="center">👋 Hey, I'm Mythical</h1>
 <h3 align="center">Full-Stack Developer from Europe/Czech Republic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myth1caldev&label=Profile%20views&color=0e75b6&style=flat" alt="mythical" /> </p>
-
 <h3 align="center">LANGUAGES & TOOLS:</h3>
 <p align="center"> 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
@@ -37,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/> 
   </a> 
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=myth1caldev&label=Profile%20views&color=0e75b6&style=flat" alt="mythical" /> </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=myth1caldev&bg_color=0a0a0a&color=8f1feb&line=8f1feb&point=ffffff&area=true&area_color=8f1feb&hide_border=true&custom_title=Recent%20activity&font_color=ffffff" width="95%" alt="Activity graph"/>
 </p>
