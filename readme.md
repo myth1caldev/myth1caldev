@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myth1caldev&label=Profile%20views&color=0e75b6&style=flat" alt="mythical" /> </p>
 
-- 🔭 I’m currently Freelancing
-  
-- ⚡ Fun fact: **I am lazy as hell.**
-
 <h3 align="center">LANGUAGES & TOOLS:</h3>
 <p align="center"> 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
