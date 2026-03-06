@@ -9,11 +9,16 @@
 - ⚡ Fun fact: **I am lazy as hell.**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white&labelColor=2c2d72" alt="Lua"/>
-  <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=323330" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/csharp-000000?style=for-the-badge&logo=csharp&logoColor=white&labelColor=239120" alt="CSharp"/>
+  <img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white&labelColor=FCC624" alt="Linux"/>
   <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/csharp-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="C#"/>
+  <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=323330" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/nginx-000000?style=for-the-badge&logo=nginx&logoColor=white&labelColor=009639" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white&labelColor=2C2D72" alt="Lua"/>
+  <img src="https://img.shields.io/badge/mariadb-000000?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=003545" alt="MariaDB"/>
 </p>
 
 <p align="center">
