@@ -37,6 +37,9 @@
       <a href="https://www.mariadb.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/> 
   </a> 
+  <a href="https://discordpy.readthedocs.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.prod.website-files.com/6612bc8d47d52bfcfeb2be2d/661565dc588dee3ff7b72eb7_discordpy.png" alt="discordpy" width="40" height="40"/> 
+  </a>     
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=myth1caldev&label=Profile%20views&color=0e75b6&style=flat" alt="mythical" /> </p>
